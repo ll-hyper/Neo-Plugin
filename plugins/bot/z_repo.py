@@ -29,22 +29,22 @@ async def start(_, msg):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{app.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/TheChampu"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/TheShivanshu"),
+          InlineKeyboardButton("𝖧𝖸𝖯𝖤𝖱", url="https://t.me/TheChampu"),
+          InlineKeyboardButton("𝖥𝖤𝖤𝖫𝖨𝖭𝖦𝖲", url="https://t.me/se_feelings"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/GOD_HYPER_O_P"),
 
 ],[
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/ChampuMusic"),
-              InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/TheChampu/ChampuString"),
+              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"Https://github.com/ll-hyper/neo_music"),
+              InlineKeyboardButton("sᴛʀɪɴɢ", url=f"Https://github.com/ll-hyper/neo_music"),
               ],
 [
-              InlineKeyboardButton("sɪᴍᴘʟᴇ ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/TelegramMusicBot")
+              InlineKeyboardButton("sɪᴍᴘʟᴇ ᴍᴜsɪᴄ", url=f"https://t.me/se_feelings")
               ],
               [
-              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"https://github.com/TheChampu/ChampuManagment"),
-InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/TheChampu/ChatBot"),
+              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"Https://github.com/ll-hyper/neo_music"),
+InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"Https://github.com/ll-hyper/neo_music"),
 ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
